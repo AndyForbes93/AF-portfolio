@@ -13,7 +13,7 @@ class Books extends Component {
   };
 
   componentDidMount() {
-    this.loadBooks();
+    //this.loadBooks();
   }
 
   loadBooks = () => {
