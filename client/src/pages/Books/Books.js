@@ -59,9 +59,12 @@ class Books extends Component {
               <h1 className="display-4">About Me</h1>
             </Jumbotron>
           </Col>
+          </Row>
+          <Row>
           <Col size="md-3">
+             <img className="ml-5 mr-2 responsive" src="https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/36063938_10209602770024392_8502132841855844352_n.jpg?_nc_cat=0&_nc_eui2=AeH02Z7fCdoyBYhrY9t2JIRitD6N_1Afjbw5YDaJbkg4cpIaoNwGrazB_8KsqpT0VzXtikFOqKj65KRZ1HBkZo90QsgKMxScHAGIPdMkOVcZxw&oh=7f5d20329e8fa012d342c596cbeab65b&oe=5BB49174" width="350" />
           </Col>
-          <Col size="md-6">
+          <Col size="md-6" className="ml-5">
             <h1>My name is Andy Forbes</h1>
             <p>I was born in Gainesvilles Florida in 1993, and grew up in the Tampa Bay Area. My biggest passions in life are hockey, music, and now coding. I've always had a huge desire to learn about all sorts of new technology and getting a career as a programmer. I have four months of expirence being self taught through Udemy, and Khan Academy, and recently graduated from the UCF Full Stack Web Development Bootcamp. I am always eager to learn more about programming and picking up new tools in my coding arsenal. </p>
             <p> I am a very creative person. Its fun to inject a little of your personality into the programs you make. In my expierence so far I've found coding to be a great way to strech my more creative muscles and I hope that I can continue to grow and eventually build bigger and better things. I can't wait to see what else I'm going to design.</p>
