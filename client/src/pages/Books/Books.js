@@ -20,7 +20,7 @@ class Books extends Component {
           </Row>
           <Row>
           <Col size="md-4">
-             <img className="ml-5 mr-5 responsive" src="https://scontent.ftpa1-2.fna.fbcdn.net/v/t1.0-9/36063938_10209602770024392_8502132841855844352_n.jpg?_nc_cat=0&_nc_eui2=AeH02Z7fCdoyBYhrY9t2JIRitD6N_1Afjbw5YDaJbkg4cpIaoNwGrazB_8KsqpT0VzXtikFOqKj65KRZ1HBkZo90QsgKMxScHAGIPdMkOVcZxw&oh=7f5d20329e8fa012d342c596cbeab65b&oe=5BB49174" alt="andrew forbes at bootcamp graduation" width="75%" />
+             <img className="ml-5 mr-5 responsive" src="https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/36063938_10209602770024392_8502132841855844352_n.jpg?_nc_cat=101&oh=9ec59022157f8f40d43eb92e743023ef&oe=5C52C574" alt="andrew forbes at bootcamp graduation" width="75%" />
           </Col>
           <Col size="md-6">
           <div className="responsive">
