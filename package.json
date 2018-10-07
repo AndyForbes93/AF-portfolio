@@ -6,8 +6,7 @@
   "scripts": {
     "server": "node server.js",
     "client": "node scripts/start-client.js",
-    "start": "npm install concurrently && npm run-script start2",
-    "start2": "concurrently \"nodemon server.js\" \"npm run client\"",
+    "start": "concurrently \"nodemon server.js\" \"npm run client\"",
     "build": "node scripts/build.js",
     "seed": "node scripts/seedDB.js",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^3.6.1",
+    "concurrently": "^3.5.0",
     "nodemon": "^1.11.0"
   },
   "dependencies": {
